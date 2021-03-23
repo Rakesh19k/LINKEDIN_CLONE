@@ -1,0 +1,14 @@
+.app{
+    position: sticky;
+    background-color: #f3f2ef;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.app_body {
+    position: sticky;
+    display: flex;
+    margin-left: 80px;
+    max-width: 1200px;
+}
